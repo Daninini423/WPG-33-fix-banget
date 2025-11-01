@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani Firdaus\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\dani firdaus\\my project (1)\\assets\\dayandnightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\dayandnightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\dani firdaus\\my project (1)\\assets\\script\\enemy\\endlessenemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\endlessenemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\ui health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ui health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\slash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\slash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\swing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\swing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\health\\newhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\health\\newhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\playermovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\cameramovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Dani Firdaus\\My project (1)\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:06:39.102Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Shooting.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Script\\Shooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:02:33.05Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:28:14.059Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DayAndNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\DayAndNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\DayAndNightCycle.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\DayAndNightCycle.cs",
+              "RelativeToolTip": "Assets\\DayAndNightCycle.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:47:30.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraMovements.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\CameraMovements.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraMovements.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\CameraMovements.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraMovements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:13:20.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "playerMovement2.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\playerMovement2.cs",
+              "RelativeDocumentMoniker": "Assets\\playerMovement2.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\playerMovement2.cs",
+              "RelativeToolTip": "Assets\\playerMovement2.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:13:15.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Health\\NewHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Health\\NewHealth.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Health\\NewHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\Health\\NewHealth.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:13:24.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Health\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Health\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Health\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\Health\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:12:27.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "enemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Enemy\\enemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\enemyMovement.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Enemy\\enemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\enemyMovement.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:46:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\playerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\playerMovement.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\playerMovement.cs",
+              "RelativeToolTip": "Assets\\playerMovement.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:02:08.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Swing.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Swing.cs",
+              "RelativeDocumentMoniker": "Assets\\Swing.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Swing.cs",
+              "RelativeToolTip": "Assets\\Swing.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:07:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slash.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Slash.cs",
+              "RelativeDocumentMoniker": "Assets\\Slash.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Slash.cs",
+              "RelativeToolTip": "Assets\\Slash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:31:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI Health.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\UI Health.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Health.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\UI Health.cs",
+              "RelativeToolTip": "Assets\\UI Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:49:18.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndlessEnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Enemy\\EndlessEnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EndlessEnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Dani Firdaus\\My project (1)\\Assets\\Script\\Enemy\\EndlessEnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EndlessEnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T02:22:59.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
