@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
@@ -26,5 +26,47 @@ public class Enemy : MonoBehaviour
     {
         Destroy(gameObject);
     }
+}*/
 
+// iki modifikasi ku dan
+using UnityEngine;
+
+public class Enemy : MonoBehaviour
+{
+    public WaveEnemySpawner spawner; // akan dicari otomatis di scene
+
+    public int health = 100;
+
+    private void Start()
+    {
+        // Jika spawner belum di-assign secara manual
+        if (spawner == null)
+        {
+            spawner = FindObjectOfType<WaveEnemySpawner>(); // cari otomatis di scene
+        }
+    }
+
+    public void TakeDamage(int dmg)
+    {
+        health -= dmg;
+        if (health <= 0)
+        {
+            Die();
+        }
+    }
+
+    public void Die()
+    {
+        if (spawner != null)
+        {
+            spawner.OnEnemyKilled();
+        }
+        else
+        {
+            Debug.LogWarning("EnemySpawner tidak ditemukan oleh " + gameObject.name);
+        }
+
+        Destroy(gameObject);
+    }
 }
+
