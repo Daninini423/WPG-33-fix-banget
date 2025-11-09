@@ -6,6 +6,7 @@ public class WaveEnemySpawner : MonoBehaviour
 {
     [Header("Enemy Settings")]
     public GameObject enemyPrefab;
+    public GameObject enemyPrefab1;
     public Transform[] spawnPoints;
 
     [Header("Wave Settings")]
@@ -65,14 +66,24 @@ public class WaveEnemySpawner : MonoBehaviour
     private void SpawnEnemy()
     {
         Transform randomPoint = spawnPoints[Random.Range(0, spawnPoints.Length)];
-        GameObject enemy = Instantiate(enemyPrefab, randomPoint.position, Quaternion.identity);
+        GameObject chosenPrefab;
+
+        if (currentWave == 1)
+            chosenPrefab = enemyPrefab;
+        else if (currentWave == 2)
+            chosenPrefab = (Random.value > 0.5f) ? enemyPrefab : enemyPrefab1;
+        else
+            chosenPrefab = enemyPrefab1;
+
+        GameObject enemy = Instantiate(chosenPrefab, randomPoint.position, Quaternion.identity);
 
         Enemy enemyScript = enemy.GetComponent<Enemy>();
         if (enemyScript != null)
         {
-            enemyScript.spawner = this; // assign spawner ke musuh baru
+            enemyScript.spawner = this;
         }
     }
+
 
     public void OnEnemyKilled()
     {
